@@ -156,7 +156,12 @@ analytics:
 include:
   - .htaccess
   - _pages
+  - _layouts
+  - _includes
+  - _teaching
   - files
+  - images
+  - assets
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
