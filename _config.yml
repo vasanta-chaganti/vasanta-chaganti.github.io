@@ -12,7 +12,7 @@ title                    : "Vasanta Chaganti"
 title_separator          : "-"
 name                     : &name "Vasanta Chaganti"
 description              : &description "I'm a Associate Professor in CS at Swarthmore. My research is in Internet Measurement, Network Security and Differential Pirvacy applied to Network Data"
-url                      : vasanta-chaganti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://vasanta-chaganti.github.io" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vasanta-chaganti/vasanta-chaganti.github.io"
 share                    : false # Disable sharing buttons
