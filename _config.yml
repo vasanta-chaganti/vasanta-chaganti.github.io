@@ -12,9 +12,9 @@ title                    : "Vasanta Chaganti"
 title_separator          : "-"
 name                     : &name "Vasanta Chaganti"
 description              : &description "I'm a Associate Professor in CS at Swarthmore. My research is in Internet Measurement, Network Security and Differential Pirvacy applied to Network Data"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : vasanta-chaganti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "vasanta-chaganti/vasanta-chaganti.github.io"
 share                    : false # Disable sharing buttons
 
 # Site Author - The following control what appear as part of the author content on the side bar.
