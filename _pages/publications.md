@@ -8,6 +8,12 @@ redirect_from:
 
 ## Conference and Journal Publications
 
+* V. Chaganti, A. Berger, "A View from Above: Measuring Internet Access Across a Diverse Corpus of Starlink Measurements", TPRC-53, The 53rd Research Conference On Communciations, Information and Internet Policy. 2025 -- *Accepted*. 
+
+* V. Chaganti, Z. Yuan, A. Meles, X. Li, "Finding the Right Fit: Differentially Private Netowrk Data Release At Scale", Theory and Practice of Differential Privacy (TPDP) 2025  -- *Accepted*. 
+
+* T. Newhall, K. Webb, V. Chaganti, A. Danner, "An Introductory-level Undergraduate CS Course that Introduces Parallel Computing", Journal of Parallel and Distributed Computing, 2025. 
+
 * A. Chattopadhyay*-27, R. Carvajal*-27, V. Chaganti, S. Venkatagiri, “Where are Marginalized Communities in Cybersecurity Research?” Proceedings of the 2024 USENIX Symposium on Usable Privacy and Security (SOUPS '24)
 
 * Z.Yuan*-24, V.Zhakarova*-24, M. Yercel*-24, K. Asakawa*
